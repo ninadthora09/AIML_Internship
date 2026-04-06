@@ -61,13 +61,13 @@ The model is trained using **transfer learning with EfficientNetV2B0**, and depl
 
 ### 🔹 App Interface
 
-(<img width="1916" height="523" alt="image" src="https://github.com/user-attachments/assets/101a7f71-af99-48df-aef1-4394c679108c" />
-)
+<img width="1916" height="523" alt="image" src="https://github.com/user-attachments/assets/101a7f71-af99-48df-aef1-4394c679108c" />
+
 
 ### 🔹 Prediction Example
 
-(<img width="1917" height="364" alt="image" src="https://github.com/user-attachments/assets/add42b51-4888-4d8a-8f46-07c5cbb39348" />
-)
+<img width="1917" height="364" alt="image" src="https://github.com/user-attachments/assets/add42b51-4888-4d8a-8f46-07c5cbb39348" />
+
 
 ---
 
