@@ -61,11 +61,13 @@ The model is trained using **transfer learning with EfficientNetV2B0**, and depl
 
 ### 🔹 App Interface
 
-(Add your screenshot here)
+(<img width="1916" height="523" alt="image" src="https://github.com/user-attachments/assets/101a7f71-af99-48df-aef1-4394c679108c" />
+)
 
 ### 🔹 Prediction Example
 
-(Add your screenshot here)
+(<img width="1917" height="364" alt="image" src="https://github.com/user-attachments/assets/add42b51-4888-4d8a-8f46-07c5cbb39348" />
+)
 
 ---
 
@@ -94,7 +96,7 @@ python app.py
 **Ninad Thorat**
 
 * GitHub: https://github.com/ninadthora09
-* LinkedIn: (Add your LinkedIn here)
+* LinkedIn: ([LinkedIn](https://www.linkedin.com/in/ninad-thorat-6b96b4255/))
 
 ---
 
