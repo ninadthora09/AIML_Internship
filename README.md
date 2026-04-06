@@ -1,22 +1,103 @@
-# 🔥 AI Image Classifier
+# 🚀 AI Image Classification Web App
 
-## 🚀 Live Demo
-👉 https://your-app.hf.space
+## 🌐 Live Demo
 
-## 🧠 About
-This project classifies images into 10 categories:
-battery, keyboard, microwave, mobile, mouse, pcb, player, printer, television, washing machine
+👉 **[Click Here to Try the App](https://ninad09-ml-image-classifier.hf.space)**
+
+---
+
+## 🧠 About the Project
+
+This project is a **Deep Learning-based Image Classification Web App** that can identify objects from images across **10 different categories** in real time.
+
+The model is trained using **transfer learning with EfficientNetV2B0**, and deployed using an interactive UI built with Gradio.
+
+---
+
+## 🏷️ Classes
+
+* Battery 🔋
+* Keyboard ⌨️
+* Microwave 🍽️
+* Mobile 📱
+* Mouse 🖱️
+* PCB 🔌
+* Player 🎮
+* Printer 🖨️
+* Television 📺
+* Washing Machine 🧺
+
+---
 
 ## ⚙️ Tech Stack
-- TensorFlow (EfficientNetV2B0)
-- Gradio (UI)
-- Hugging Face Spaces (Deployment)
 
-## 📸 Features
-- Upload image
-- Real-time prediction
-- Deep learning model
+* 🧠 Deep Learning: TensorFlow / Keras
+* 🖼️ Model: EfficientNetV2B0
+* 🎨 Frontend/UI: Gradio
+* ☁️ Deployment: Hugging Face Spaces
+* 🐍 Language: Python
+
+---
+
+## ✨ Features
+
+* 📤 Upload an image
+* ⚡ Real-time prediction
+* 🎯 Accurate classification using deep learning
+* 🌍 Fully deployed and accessible online
+
+---
 
 ## 🧪 Model Details
-- Input size: 128x128
-- Architecture: EfficientNetV2B0
+
+* Input Size: **128 x 128 x 3**
+* Architecture: **EfficientNetV2B0 (Transfer Learning)**
+* Output: **10 Class Categories**
+* Preprocessing: EfficientNet preprocessing
+
+---
+
+## 📸 Screenshots
+
+### 🔹 App Interface
+
+(Add your screenshot here)
+
+### 🔹 Prediction Example
+
+(Add your screenshot here)
+
+---
+
+## 🚀 How to Run Locally
+
+```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+cd YOUR_REPO_NAME
+pip install -r requirements.txt
+python app.py
+```
+
+---
+
+## 📌 Future Improvements
+
+* 🔹 Show prediction probabilities
+* 🔹 Improve UI/UX design
+* 🔹 Add drag-and-drop image upload
+* 🔹 Support more object categories
+
+---
+
+## 👨‍💻 Author
+
+**Ninad Thorat**
+
+* GitHub: https://github.com/ninadthora09
+* LinkedIn: (Add your LinkedIn here)
+
+---
+
+## ⭐ If you like this project
+
+Give it a ⭐ on GitHub!
